@@ -97,7 +97,8 @@ it labels the consonants and vowels in the phrase"""
     
 # Task 4.b
 def my_while_loop():
-    """ This"""
+    """ This function will ask the user for an option a, b, or c, and complete
+different actions depending on the choice"""
     
     while True:
         optionchoice = input("Choose option a, b, or c: ")
